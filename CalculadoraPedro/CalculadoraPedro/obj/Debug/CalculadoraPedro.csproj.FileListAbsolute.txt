@@ -1,0 +1,2 @@
+H:\IdeaProjects\CalculadoraPedro\CalculadoraPedro\obj\Debug\CalculadoraPedro.csproj.AssemblyReference.cache
+H:\IdeaProjects\CalculadoraPedro\CalculadoraPedro\obj\Debug\CalculadoraPedro.csproj.CoreCompileInputs.cache

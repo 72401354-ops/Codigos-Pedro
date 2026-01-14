@@ -11,7 +11,7 @@ Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas,
 
 ### **Cotemig - Colégio e Faculdade**
 **Técnico em Análise e Desenvolvimento de Sistemas**  
-*Concluído em [ANO]*
+*Concluído em 2026*
 
 **Habilidades desenvolvidas:**
 - Fundamentos de programação e algoritmos

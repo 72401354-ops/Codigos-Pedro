@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro!
 
 **Desenvolvedor Back-end | Quality Assurance**  
-📍 Belo Horizonte, MG • 📧 pedro.dev@email.com
+📍 Belo Horizonte, MG • 📧 pedrodanielcardoso05@gmail.com
 
 ## 🚀 Sobre Mim
 

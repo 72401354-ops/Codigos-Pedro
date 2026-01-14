@@ -1,62 +1,93 @@
-
 # 👋 Olá, eu sou o Pedro!
 
-**Desenvolvedor Back-end | Quality Assurance em formação**  
-📍 São Paulo, SP • 📧 pedro.dev@email.com
+**Desenvolvedor Back-end | Quality Assurance**  
+📍 Belo Horizonte, MG • 📧 pedro.dev@email.com
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por desenvolvimento de software com foco em qualidade e boas práticas. Especializado em back-end e testes automatizados, buscando criar soluções robustas e confiáveis.
+Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas, especializado em back-end e qualidade de software. Focado em criar soluções robustas com altos padrões de qualidade através de testes automatizados e boas práticas de desenvolvimento.
 
-### 💻 Tecnologias & Ferramentas:
+## 🎓 Formação & Certificações
 
-#### **Linguagens de Programação:**
+### **Cotemig - Colégio e Faculdade**
+**Técnico em Análise e Desenvolvimento de Sistemas**  
+*Concluído em [ANO]*
+
+**Habilidades desenvolvidas:**
+- Fundamentos de programação e algoritmos
+- Desenvolvimento de sistemas web e mobile
+- Bancos de dados relacionais e não-relacionais
+- Engenharia de software e metodologias ágeis
+- Qualidade de software e testes automatizados
+
+### **Cursos e Certificações Complementares:**
+- **Quality Assurance & Testing** - Cotemig
+- **Java Programming Fundamentals** - Cotemig
+- **Testes Automatizados com JUnit** - Cotemig
+- **Python para Automação** - Cotemig
+- **Controle de Qualidade de Software** - Cotemig
+
+## 🛠️ Tecnologias & Ferramentas
+
+### **Linguagens de Programação:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-#### **Front-end:**
+### **Front-end & Web:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### **Quality Assurance & Testes:**
+### **Quality Assurance & Testes:**
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78C257?style=flat&logoColor=white)
 ![Hamcrest](https://img.shields.io/badge/Hamcrest-4B8BBE?style=flat&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/AssertJ-E6526F?style=flat&logoColor=white)
 
-#### **Ferramentas:**
+### **Ferramentas & Plataformas:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-#### **Especialidades:**
-✅ **Quality Control**  
-✅ **Testes Unitários (JUnit, Mockito)**  
-✅ **Testes de Integração**  
-✅ **Asserções Avançadas (Hamcrest, AssertJ)**  
+### **Especialidades Técnicas:**
+✅ **Quality Control e Garantia de Qualidade**  
+✅ **Testes Unitários e de Integração**  
+✅ **TDD (Test-Driven Development)**  
+✅ **Automação de Testes**  
+✅ **Clean Code e Boas Práticas**  
+✅ **Metodologias Ágeis (Scrum/Kanban)**  
 
-## 📂 Meus Projetos
+## 📊 Áreas de Interesse Profissional
 
-### 🔧 [Sistema de Gerenciamento com Testes](https://github.com/seu-user/sistema-testes)
-Sistema back-end em Java com suíte completa de testes unitários e de integração
+1. **Desenvolvimento Back-end Java**
+   - Spring Boot, Microsserviços, APIs REST
+   - Bancos de dados (SQL e NoSQL)
 
-### 🧪 [Framework de Testes Personalizado](https://github.com/seu-user/framework-testes)
-Implementação de ferramentas de teste com JUnit, Mockito e AssertJ
+2. **Quality Assurance & Test Automation**
+   - Engenharia de Qualidade de Software
+   - Frameworks de teste (JUnit, TestNG)
+   - Automação com Selenium, Cucumber
 
-### 📊 [API REST com Quality Assurance](https://github.com/seu-user/api-qa)
-API desenvolvida com foco em qualidade e cobertura de testes
-
-## 🎯 Foco Atual
-
-- 🔬 **Testes Automatizados** - Aprofundando em TDD e BDD
-- ⚙️ **Back-end Java** - Spring Boot, Microsserviços
-- 📈 **Qualidade de Código** - Métricas, SonarQube, Clean Code
-- 🐍 **Python para Automação** - Scripts e ferramentas de QA
+3. **DevOps & CI/CD**
+   - Integração Contínua
+   - Docker, Kubernetes
+   - Monitoramento e Logs
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark&hide_title=true&hide=prs,issues)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark&hide_title=true)
+
+> *Os projetos serão atualizados progressivamente conforme meu desenvolvimento técnico*
+
+## 🎯 Em Desenvolvimento
+
+Atualmente trabalhando em:
+- 🔨 **Projetos Java com Spring Boot**
+- 🧪 **Suítes de testes automatizados**
+- 📚 **Estudos avançados em Quality Assurance**
+- 🚀 **Preparação para certificações técnicas**
 
 ## 📫 Conecte-se comigo
 
@@ -66,11 +97,17 @@ API desenvolvida com foco em qualidade e cobertura de testes
 
 ---
 
-## 📚 Certificações & Cursos
+## 🏆 Conquistas Acadêmicas
 
-- 🎓 **Quality Assurance Fundamentals** - [Instituição]
-- 🎓 **Java & JUnit Testing Masterclass** - [Instituição]
-- 🎓 **Testes Automatizados com Python** - [Instituição]
+**Cotemig - Destaques:**
+- Projetos práticos com foco em qualidade
+- Participação em maratonas de programação
+- Desenvolvimento de sistemas completos
+- Trabalhos com metodologias ágeis
 
-⭐ *Comprometido com excelência em desenvolvimento e qualidade de software!*
+**Certificações em andamento:**
+- Oracle Certified Associate, Java SE 8 Programmer
+- ISTQB Foundation Level
+- AWS Cloud Practitioner
 
+⭐ *Formado com excelência técnica pela Cotemig, buscando oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento e qualidade de software.*

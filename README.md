@@ -1,13 +1,8 @@
-# 👋 Olá, eu sou o Pedro!
 
-**Desenvolvedor Back-end | Quality Assurance**  
 📍 Belo Horizonte, MG • 📧 pedrodanielcardoso05@gmail.com
-
-## 🚀 Sobre Mim
 
 Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas, especializado em back-end e qualidade de software. Focado em criar soluções robustas com altos padrões de qualidade através de testes automatizados e boas práticas de desenvolvimento.
 
-## 🎓 Formação & Certificações
 
 ### **Cotemig - Colégio e Faculdade**
 **Técnico em Análise e Desenvolvimento de Sistemas**  
@@ -24,14 +19,12 @@ Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas,
 - **Quality Assurance & Testing** - Cotemig
 - **Java Programming Fundamentals** - Cotemig
 - **Testes Automatizados com JUnit** - Cotemig
-- **Python para Automação** - Cotemig
 - **Controle de Qualidade de Software** - Cotemig
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **Linguagens de Programação:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### **Front-end & Web:**
@@ -41,8 +34,6 @@ Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas,
 ### **Quality Assurance & Testes:**
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78C257?style=flat&logoColor=white)
-![Hamcrest](https://img.shields.io/badge/Hamcrest-4B8BBE?style=flat&logoColor=white)
-![AssertJ](https://img.shields.io/badge/AssertJ-E6526F?style=flat&logoColor=white)
 
 ### **Ferramentas & Plataformas:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -53,7 +44,6 @@ Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas,
 ### **Especialidades Técnicas:**
 ✅ **Quality Control e Garantia de Qualidade**  
 ✅ **Testes Unitários e de Integração**  
-✅ **TDD (Test-Driven Development)**  
 ✅ **Automação de Testes**  
 ✅ **Clean Code e Boas Práticas**  
 ✅ **Metodologias Ágeis (Scrum/Kanban)**  
@@ -67,12 +57,7 @@ Desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas,
 2. **Quality Assurance & Test Automation**
    - Engenharia de Qualidade de Software
    - Frameworks de teste (JUnit, TestNG)
-   - Automação com Selenium, Cucumber
 
-3. **DevOps & CI/CD**
-   - Integração Contínua
-   - Docker, Kubernetes
-   - Monitoramento e Logs
 
 ## 📈 Estatísticas do GitHub
 
@@ -97,17 +82,3 @@ Atualmente trabalhando em:
 
 ---
 
-## 🏆 Conquistas Acadêmicas
-
-**Cotemig - Destaques:**
-- Projetos práticos com foco em qualidade
-- Participação em maratonas de programação
-- Desenvolvimento de sistemas completos
-- Trabalhos com metodologias ágeis
-
-**Certificações em andamento:**
-- Oracle Certified Associate, Java SE 8 Programmer
-- ISTQB Foundation Level
-- AWS Cloud Practitioner
-
-⭐ *Formado com excelência técnica pela Cotemig, buscando oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento e qualidade de software.*

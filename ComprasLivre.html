@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compras Livre</title>
+    <link rel="stylesheet" href="ComprasLivre.css">
+    <!-- Ícones do Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="header-top">
+            <a href="#" class="logo">🛒 Compras Livres</a>
+
+            <form action="search-bar" onsubmit="event.preventDefault(); filtrarProdutos();">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Buscar produtos, marcas e muito mais..."
+                    oninput="filtrarProdutos();"
+                    aria-label="Buscar Produtos"
+                >
+                <button type="submit" aria-label="Pesquisar">🔍</button>
+            </form>
+
+            <nav class="header-nav">
+                <a href="#">Crie sua Conta</a>
+                <a href="#">Entrar</a>
+                <a href="#">Minhas Compras</a>
+                <a href="#" class="card" onclick="toggleCarrinho(event)" aria-label="Carrinho">
+                    🛍️<span id="cardCount">0</span>
+                </a>
+            </nav>
+        </div>
+
+        <nav class="categorias">
+            <a href="#" onclick="filtrarCategoria(event, 'Todas')">Todas</a>
+            <a href="#" onclick="filtrarCategoria(event, 'Eletronicos')">Eletronicos</a>
+            <a href="#" onclick="filtrarCategoria(event, 'Casa')">Casa</a>
+            <a href="#" onclick="filtrarCategoria(event, 'Esportes')">Esportes</a>
+            <a href="#" onclick="filtrarCategoria(event, 'Livros')">Livros</a>
+        </nav>
+    </header>
+
+    <section class="banner">
+        <div class="banner-content">
+            <h1>Ofertas da semana 🔥</h1>
+            <p>Frete Grátis em compras acima de R$80,00</p>
+            <button class="banner-btn" onclick="filtrarCategoria(event, 'Todas')">Ver todas as ofertas</button>
+        </div>
+    </section>
+
+    <section class="vantagens">
+        <div class="vantagem"><i class="fa-solid fa-truck-fast"></i><span>Frete Grátis</span></div>
+        <div class="vantagem"><i class="fa-solid fa-shield-halved"></i><span>Compra Garantida</span></div>
+        <div class="vantagem"><i class="fa-solid fa-credit-card"></i><span>Até 12 vezes sem juros</span></div>
+        <div class="vantagem"><i class="fa-solid fa-rotate-left"></i><span>Devolução Grátis</span></div>
+    </section>
+
+    <main class="container">
+        <h2 class="section-title" id="sectionTitle">Todos os Produtos</h2>
+        <div class="produtos" id="listaProdutos"></div>
+        <p class="sem-resultados" id="semResultados" style="display:none;">Nenhum Produto encontrado</p>
+    </main>
+
+    <aside class="carrinho-painel" id="carrinho-painel">
+        <div class="carrinho-header">
+            <h3>Meu carrinho</h3>
+            <p class="carrinho-vazio">Seu carrinho está vazio</p>
+        </div>
+
+        <div class="carrinho-footer">
+            <p>Total: <strong id="carrinhoTotal">R$ 00,00</strong></p>
+            <button class="btn-finalizar">Finalizar Compra</button>
+        </div>
+    </aside>
+
+    <footer class="footer">
+        <div class="footer-grid">
+            <div>
+                <h4>Compras Livre</h4>
+                <p>Sua mini compra online com as melhores ofertas</p>
+            </div>
+
+            <div>
+                <h4>Institucional</h4>
+                <a href="#">Sobre nós</a>
+                <a href="#">Carreiras</a>
+                <a href="#">Imprensa</a>
+            </div>
+
+            <div>
+                <h4>Ajuda</h4>
+                <a href="#">Central de Ajuda</a>
+                <a href="#">Frete e entrega</a>
+                <a href="#">Devoluções</a>
+            </div>
+
+            <div>
+                <h4>Redes Sociais</h4>
+                <div class="social">
+                    <a href="#" aria-label="Facebook"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#" aria-label="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href="#" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <p class="copy">© 2025 Compras Livre - Todos os direitos reservados.</p>
+    </footer>
+
+   
+    <script src="ComprasLivre.js"></script>
+
+</body>
+</html>
